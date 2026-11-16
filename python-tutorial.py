@@ -10,7 +10,7 @@ while True:
         print("\nWHAT IS PROGRAMMING LANGUAGE?")
         print("A programming language is a special language that computers understand and use to perform tasks.")
         print("Why learn PYTHON?")
-        print("1. Simple and easy to learn, 2. Readable Syntax, 3. Versatile\n")
+        print("1. Simple and easy to learn 2. Readable Syntax 3. Versatile\n")
         print("QUESTION:")
         print("Which is an example of Programming language?")
         print("a. Pycharm")
@@ -85,7 +85,7 @@ while True:
         print("c = 7")
         print("(a - b * c)")
         print("Which answer is correct?")
-        print("a. 41 b. b. 7 c. error")
+        print("a. 29 b. b. 7 c. error")
 
         answer6 = input("\nEnter your choice: ").lower()
         if answer6 == 'a':
