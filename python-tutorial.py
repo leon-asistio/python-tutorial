@@ -100,7 +100,7 @@ while True:
         print("Python follows the order of (PEMDAS)")
         print("Parenthesis, Exponents, Multiplication")
         print("Division, Addition, Subtraction\n")
-        print("THANK YOU! 😎😎😎")
+        print("THANK YOU! 😊")
         break
 
     else:
