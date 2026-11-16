@@ -1,6 +1,5 @@
 while True:
     print("======PYTHON TUTORIAL=======")
-    print("What do you want to learn?")
     print("1. INTRODUCTION TO PROGRAMMING")
     print("2. BASIC SYNTAX")
     print("3. ARITHMETIC OPERATORS")
@@ -101,7 +100,7 @@ while True:
         print("Python follows the order of (PEMDAS)")
         print("Parenthesis, Exponents, Multiplication")
         print("Division, Addition, Subtraction\n")
-        print("THANK YOU! 🙂")
+        print("THANK YOU! 😎😎😎")
         break
 
     else:
