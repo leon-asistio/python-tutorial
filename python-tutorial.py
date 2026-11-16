@@ -61,7 +61,7 @@ while True:
         print("Arithmetic operators are symbols used to perform mathematical calculations on numbers.")
         print("They work the same way as the operators used in everyday mathematics.")
         print("\nPYTHON ARITHMETIC OPERATORS")
-        print("(Add +) (Sub -) (Sum ) (division /) (floor division //) (Modulus %) (Exponentiation *)\n")
+        print("(Add +) (Sub -) (Sum * ) (division /) (floor division //) (Modulus %) (Exponentiation **)\n")
         print("SOLVE THIS:")
         print("a = 2")
         print("b = 2")
